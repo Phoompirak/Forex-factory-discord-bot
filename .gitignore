@@ -1,0 +1,36 @@
+# ============================================================
+# ไฟล์ที่ต้องซ่อน — อย่า commit ขึ้น GitHub เด็ดขาด!
+# ============================================================
+
+# Environment variables / API Keys
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# pytest cache
+.pytest_cache/
+.cache/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
