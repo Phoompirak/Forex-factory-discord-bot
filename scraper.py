@@ -1,6 +1,8 @@
-import requests
-from datetime import datetime
 import json
+import urllib.parse
+from datetime import datetime
+import requests
+from bs4 import BeautifulSoup
 
 def scrape_forex_factory(url=None):
     # ใช้ JSON endpoint ของ Forex Factory โดยตรง ซึ่งเสถียรกว่าและดึงข้อมูลได้ง่ายกว่า
@@ -13,17 +15,45 @@ def scrape_forex_factory(url=None):
         "Referer": "https://www.forexfactory.com/"
     }
 
-    try:
-        print(f"Fetching news from {json_url}...")
-        response = requests.get(json_url, headers=headers)
-        response.raise_for_status()
-        news_data = response.json()
-    except requests.exceptions.RequestException as e:
-        print(f"Error fetching JSON from {json_url}: {e}")
-        return []
-    except json.JSONDecodeError as e:
-        print(f"Error decoding JSON: {e}")
-        return []
+    news_data = None
+    if url:
+        print(f"Fetching Forex Factory market page from {url}...")
+        try:
+            response = requests.get(url, headers=headers)
+            response.raise_for_status()
+            soup = BeautifulSoup(response.text, "html.parser")
+            show_more = soup.select_one(
+                "#ls-layout > div:nth-child(4) > div:nth-child(2) > div:nth-child(1) > div > div.foot > ul > li > a:nth-child(2)"
+            )
+            if show_more and show_more.get("href"):
+                more_url = urllib.parse.urljoin(url, show_more["href"])
+                print(f"Found expanded market link: {more_url}")
+                response = requests.get(more_url, headers=headers)
+                response.raise_for_status()
+                if "application/json" in response.headers.get("Content-Type", ""):
+                    news_data = response.json()
+                    print("Loaded expanded feed from market page.")
+                else:
+                    print("Expanded market URL did not return JSON; falling back to calendar JSON endpoint.")
+            else:
+                print("Show-more link not found on market page; falling back to calendar JSON endpoint.")
+        except requests.exceptions.RequestException as e:
+            print(f"Error fetching market page or expanded feed: {e}")
+        except json.JSONDecodeError as e:
+            print(f"Error decoding JSON from expanded market feed: {e}")
+
+    if news_data is None:
+        try:
+            print(f"Fetching news from {json_url}...")
+            response = requests.get(json_url, headers=headers)
+            response.raise_for_status()
+            news_data = response.json()
+        except requests.exceptions.RequestException as e:
+            print(f"Error fetching JSON from {json_url}: {e}")
+            return []
+        except json.JSONDecodeError as e:
+            print(f"Error decoding JSON: {e}")
+            return []
 
     news_items = []
     # กรองเฉพาะข่าวที่เกิดขึ้นในวันนี้ (หรือข่าวล่าสุด)
