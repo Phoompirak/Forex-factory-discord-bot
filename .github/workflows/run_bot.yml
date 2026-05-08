@@ -1,20 +1,16 @@
 name: Forex Factory Discord Bot
 
-# Workflow นี้จะรันบอทตามเวลาที่กำหนดในประเทศไทย
-# และบังคับให้ GitHub Actions ใช้ Node.js 24 เพื่อความเข้ากันได้กับ action รุ่นใหม่
 on:
   schedule:
-    # 09:00 น. เวลาไทย (UTC+7) = 02:00 UTC
-    - cron: '0 2 * * *'
-    # 13:50 น. เวลาไทย (UTC+7) = 06:50 UTC
-    - cron: '50 6 * * *'
-    # 18:50 น. เวลาไทย (UTC+7) = 11:50 UTC
-    - cron: '50 11 * * *'
+    # รันทุกชั่วโมงเพื่อให้ครอบคลุมความล่าช้าของ GitHub Actions
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
   run-bot:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # อนุญาตให้เขียนไฟล์กลับไปยัง repo
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
@@ -46,3 +42,10 @@ jobs:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
           python main.py
+
+      - name: Commit and push if sent_news.json changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add sent_news.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update sent news tracking" && git push)
