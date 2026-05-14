@@ -62,5 +62,17 @@
   "2026-05-13T14:40:00-04:00_Fed Chair Nomination Vote_preview": {
     "sent_at": "2026-05-14T02:42:50.941262+07:00",
     "actual": "N/A"
+  },
+  "2026-05-14T08:30:00-04:00_Core Retail Sales m/m_preview": {
+    "sent_at": "2026-05-14T10:36:27.877266+07:00",
+    "actual": "N/A"
+  },
+  "2026-05-14T08:30:00-04:00_Retail Sales m/m_preview": {
+    "sent_at": "2026-05-14T10:36:27.877266+07:00",
+    "actual": "N/A"
+  },
+  "2026-05-14T08:30:00-04:00_Unemployment Claims_preview": {
+    "sent_at": "2026-05-14T10:36:27.877266+07:00",
+    "actual": "N/A"
   }
 }
