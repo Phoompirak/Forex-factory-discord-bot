@@ -74,5 +74,9 @@
   "2026-05-14T08:30:00-04:00_Unemployment Claims_preview": {
     "sent_at": "2026-05-14T10:36:27.877266+07:00",
     "actual": "N/A"
+  },
+  "2026-05-19T10:00:00-04:00_Pending Home Sales m/m_preview": {
+    "sent_at": "2026-05-19T14:37:43.205385+07:00",
+    "actual": "N/A"
   }
 }
