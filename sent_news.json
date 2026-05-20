@@ -78,5 +78,9 @@
   "2026-05-19T10:00:00-04:00_Pending Home Sales m/m_preview": {
     "sent_at": "2026-05-19T14:37:43.205385+07:00",
     "actual": "N/A"
+  },
+  "2026-05-20T14:00:00-04:00_FOMC Meeting Minutes_preview": {
+    "sent_at": "2026-05-20T17:20:24.968052+07:00",
+    "actual": "N/A"
   }
 }
