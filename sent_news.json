@@ -90,5 +90,13 @@
   "2026-05-21T08:30:00-04:00_Unemployment Claims_preview": {
     "sent_at": "2026-05-21T09:33:05.810716+07:00",
     "actual": "N/A"
+  },
+  "2026-05-21T09:45:00-04:00_Flash Manufacturing PMI_preview": {
+    "sent_at": "2026-05-21T13:44:44.141696+07:00",
+    "actual": "N/A"
+  },
+  "2026-05-21T09:45:00-04:00_Flash Services PMI_preview": {
+    "sent_at": "2026-05-21T13:44:44.141696+07:00",
+    "actual": "N/A"
   }
 }
