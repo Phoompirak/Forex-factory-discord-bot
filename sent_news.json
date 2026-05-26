@@ -102,5 +102,9 @@
   "2026-05-22T10:00:00-04:00_Revised UoM Consumer Sentiment_preview": {
     "sent_at": "2026-05-22T13:41:51.608960+07:00",
     "actual": "N/A"
+  },
+  "2026-05-26T10:00:00-04:00_CB Consumer Confidence_preview": {
+    "sent_at": "2026-05-26T14:37:04.632006+07:00",
+    "actual": "N/A"
   }
 }
