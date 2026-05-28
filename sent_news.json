@@ -106,5 +106,25 @@
   "2026-05-26T10:00:00-04:00_CB Consumer Confidence_preview": {
     "sent_at": "2026-05-26T14:37:04.632006+07:00",
     "actual": "N/A"
+  },
+  "2026-05-28T08:30:00-04:00_Core PCE Price Index m/m_preview": {
+    "sent_at": "2026-05-28T13:45:09.260020+07:00",
+    "actual": "N/A"
+  },
+  "2026-05-28T08:30:00-04:00_Prelim GDP q/q_preview": {
+    "sent_at": "2026-05-28T13:45:09.260020+07:00",
+    "actual": "N/A"
+  },
+  "2026-05-28T08:30:00-04:00_Prelim GDP Price Index q/q_preview": {
+    "sent_at": "2026-05-28T13:45:09.260020+07:00",
+    "actual": "N/A"
+  },
+  "2026-05-28T08:30:00-04:00_Unemployment Claims_preview": {
+    "sent_at": "2026-05-28T13:45:09.260020+07:00",
+    "actual": "N/A"
+  },
+  "2026-05-28T10:00:00-04:00_New Home Sales_preview": {
+    "sent_at": "2026-05-28T13:45:09.260020+07:00",
+    "actual": "N/A"
   }
 }
