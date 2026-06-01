@@ -134,5 +134,13 @@
   "2026-05-31T20:30:00-04:00_FOMC Member Powell Speaks_preview": {
     "sent_at": "2026-05-31T22:13:27.288318+07:00",
     "actual": "N/A"
+  },
+  "2026-06-01T10:00:00-04:00_ISM Manufacturing PMI_preview": {
+    "sent_at": "2026-06-01T11:16:44.738451+07:00",
+    "actual": "N/A"
+  },
+  "2026-06-01T10:00:00-04:00_ISM Manufacturing Prices_preview": {
+    "sent_at": "2026-06-01T11:16:44.738451+07:00",
+    "actual": "N/A"
   }
 }
