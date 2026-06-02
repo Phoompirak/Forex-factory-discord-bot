@@ -142,5 +142,9 @@
   "2026-06-01T10:00:00-04:00_ISM Manufacturing Prices_preview": {
     "sent_at": "2026-06-01T11:16:44.738451+07:00",
     "actual": "N/A"
+  },
+  "2026-06-02T10:00:00-04:00_JOLTS Job Openings_preview": {
+    "sent_at": "2026-06-02T12:24:28.016591+07:00",
+    "actual": "N/A"
   }
 }
