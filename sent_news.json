@@ -150,5 +150,13 @@
   "2026-06-03T08:15:00-04:00_ADP Non-Farm Employment Change_preview": {
     "sent_at": "2026-06-03T09:54:26.453928+07:00",
     "actual": "N/A"
+  },
+  "2026-06-03T10:00:00-04:00_ISM Services PMI_preview": {
+    "sent_at": "2026-06-03T15:09:19.276039+07:00",
+    "actual": "N/A"
+  },
+  "2026-06-03T10:00:00-04:00_Treasury Sec Bessent Speaks_preview": {
+    "sent_at": "2026-06-03T15:09:19.276039+07:00",
+    "actual": "N/A"
   }
 }
