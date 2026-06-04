@@ -162,5 +162,13 @@
   "2026-06-04T08:30:00-04:00_Unemployment Claims_preview": {
     "sent_at": "2026-06-04T09:49:49.389627+07:00",
     "actual": "N/A"
+  },
+  "2026-06-04T10:00:00-04:00_Treasury Sec Bessent Speaks_preview": {
+    "sent_at": "2026-06-04T20:54:55.123463+07:00",
+    "actual": "N/A"
+  },
+  "2026-06-04T15:00:00-04:00_President Trump Speaks_preview": {
+    "sent_at": "2026-06-04T20:54:55.123463+07:00",
+    "actual": "N/A"
   }
 }
