@@ -170,5 +170,17 @@
   "2026-06-04T15:00:00-04:00_President Trump Speaks_preview": {
     "sent_at": "2026-06-04T20:54:55.123463+07:00",
     "actual": "N/A"
+  },
+  "2026-06-05T08:30:00-04:00_Average Hourly Earnings m/m_preview": {
+    "sent_at": "2026-06-05T09:37:01.627384+07:00",
+    "actual": "N/A"
+  },
+  "2026-06-05T08:30:00-04:00_Non-Farm Employment Change_preview": {
+    "sent_at": "2026-06-05T09:37:01.627384+07:00",
+    "actual": "N/A"
+  },
+  "2026-06-05T08:30:00-04:00_Unemployment Rate_preview": {
+    "sent_at": "2026-06-05T09:37:01.627384+07:00",
+    "actual": "N/A"
   }
 }
