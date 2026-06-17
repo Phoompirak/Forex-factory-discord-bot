@@ -230,5 +230,21 @@
   "2026-06-17T09:30:00-04:00_President Trump Speaks_preview": {
     "sent_at": "2026-06-17T13:02:32.189649+07:00",
     "actual": "N/A"
+  },
+  "2026-06-17T14:00:00-04:00_Federal Funds Rate_preview": {
+    "sent_at": "2026-06-17T18:29:12.896349+07:00",
+    "actual": "N/A"
+  },
+  "2026-06-17T14:00:00-04:00_FOMC Economic Projections_preview": {
+    "sent_at": "2026-06-17T18:29:12.896349+07:00",
+    "actual": "N/A"
+  },
+  "2026-06-17T14:00:00-04:00_FOMC Statement_preview": {
+    "sent_at": "2026-06-17T18:29:12.896349+07:00",
+    "actual": "N/A"
+  },
+  "2026-06-17T14:30:00-04:00_FOMC Press Conference_preview": {
+    "sent_at": "2026-06-17T18:29:12.896349+07:00",
+    "actual": "N/A"
   }
 }
