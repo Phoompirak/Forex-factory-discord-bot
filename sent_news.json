@@ -246,5 +246,9 @@
   "2026-06-17T14:30:00-04:00_FOMC Press Conference_preview": {
     "sent_at": "2026-06-17T18:29:12.896349+07:00",
     "actual": "N/A"
+  },
+  "2026-06-17T10:45:00-04:00_President Trump Speaks_preview": {
+    "sent_at": "2026-06-17T21:53:36.950120+07:00",
+    "actual": "N/A"
   }
 }
