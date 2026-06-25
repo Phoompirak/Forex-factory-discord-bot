@@ -274,5 +274,21 @@
   "2026-06-24T20:30:00-04:00_President Trump Speaks_preview": {
     "sent_at": "2026-06-24T23:09:46.761742+07:00",
     "actual": "N/A"
+  },
+  "2026-06-25T08:30:00-04:00_Core PCE Price Index m/m_preview": {
+    "sent_at": "2026-06-25T10:57:10.570633+07:00",
+    "actual": "N/A"
+  },
+  "2026-06-25T08:30:00-04:00_Final GDP q/q_preview": {
+    "sent_at": "2026-06-25T10:57:10.570633+07:00",
+    "actual": "N/A"
+  },
+  "2026-06-25T08:30:00-04:00_Final GDP Price Index q/q_preview": {
+    "sent_at": "2026-06-25T10:57:10.570633+07:00",
+    "actual": "N/A"
+  },
+  "2026-06-25T08:30:00-04:00_Unemployment Claims_preview": {
+    "sent_at": "2026-06-25T10:57:10.570633+07:00",
+    "actual": "N/A"
   }
 }
