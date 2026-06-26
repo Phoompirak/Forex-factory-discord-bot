@@ -290,5 +290,13 @@
   "2026-06-25T08:30:00-04:00_Unemployment Claims_preview": {
     "sent_at": "2026-06-25T10:57:10.570633+07:00",
     "actual": "N/A"
+  },
+  "2026-06-26T10:00:00-04:00_Revised UoM Consumer Sentiment_preview": {
+    "sent_at": "2026-06-26T13:44:57.690619+07:00",
+    "actual": "N/A"
+  },
+  "2026-06-26T10:00:00-04:00_Revised UoM Inflation Expectations_preview": {
+    "sent_at": "2026-06-26T13:44:57.690619+07:00",
+    "actual": "N/A"
   }
 }
