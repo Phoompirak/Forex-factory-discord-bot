@@ -302,5 +302,13 @@
   "2026-06-26T13:30:00-04:00_President Trump Speaks_preview": {
     "sent_at": "2026-06-26T20:04:03.509529+07:00",
     "actual": "N/A"
+  },
+  "2026-06-30T10:00:00-04:00_CB Consumer Confidence_preview": {
+    "sent_at": "2026-06-30T13:49:19.868331+07:00",
+    "actual": "N/A"
+  },
+  "2026-06-30T10:00:00-04:00_JOLTS Job Openings_preview": {
+    "sent_at": "2026-06-30T13:49:19.868331+07:00",
+    "actual": "N/A"
   }
 }
