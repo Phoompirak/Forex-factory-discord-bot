@@ -378,5 +378,17 @@
   "2026-07-14T10:00:00-04:00_Fed Chairman Warsh Testifies_preview": {
     "sent_at": "2026-07-14T11:42:51.574919+07:00",
     "actual": "N/A"
+  },
+  "2026-07-15T08:30:00-04:00_Core PPI m/m_preview": {
+    "sent_at": "2026-07-15T11:42:19.821837+07:00",
+    "actual": "N/A"
+  },
+  "2026-07-15T08:30:00-04:00_PPI m/m_preview": {
+    "sent_at": "2026-07-15T11:42:19.821837+07:00",
+    "actual": "N/A"
+  },
+  "2026-07-15T10:00:00-04:00_Fed Chairman Warsh Testifies_preview": {
+    "sent_at": "2026-07-15T11:42:19.821837+07:00",
+    "actual": "N/A"
   }
 }
