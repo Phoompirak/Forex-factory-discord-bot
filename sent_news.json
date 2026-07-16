@@ -390,5 +390,21 @@
   "2026-07-15T10:00:00-04:00_Fed Chairman Warsh Testifies_preview": {
     "sent_at": "2026-07-15T11:42:19.821837+07:00",
     "actual": "N/A"
+  },
+  "2026-07-16T08:30:00-04:00_Core Retail Sales m/m_preview": {
+    "sent_at": "2026-07-16T11:52:55.647937+07:00",
+    "actual": "N/A"
+  },
+  "2026-07-16T08:30:00-04:00_Philly Fed Manufacturing Index_preview": {
+    "sent_at": "2026-07-16T11:52:55.647937+07:00",
+    "actual": "N/A"
+  },
+  "2026-07-16T08:30:00-04:00_Retail Sales m/m_preview": {
+    "sent_at": "2026-07-16T11:52:55.647937+07:00",
+    "actual": "N/A"
+  },
+  "2026-07-16T08:30:00-04:00_Unemployment Claims_preview": {
+    "sent_at": "2026-07-16T11:52:55.647937+07:00",
+    "actual": "N/A"
   }
 }
