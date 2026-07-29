@@ -438,5 +438,13 @@
   "2026-07-28T10:00:00-04:00_CB Consumer Confidence_preview": {
     "sent_at": "2026-07-28T12:38:54.731861+07:00",
     "actual": "N/A"
+  },
+  "2026-07-29T14:00:00-04:00_Federal Funds Rate_preview": {
+    "sent_at": "2026-07-29T15:23:09.849065+07:00",
+    "actual": "N/A"
+  },
+  "2026-07-29T14:00:00-04:00_FOMC Statement_preview": {
+    "sent_at": "2026-07-29T15:23:09.849065+07:00",
+    "actual": "N/A"
   }
 }
