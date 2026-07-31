@@ -466,5 +466,17 @@
   "2026-07-30T08:30:00-04:00_Unemployment Claims_preview": {
     "sent_at": "2026-07-30T11:49:46.467361+07:00",
     "actual": "N/A"
+  },
+  "2026-07-31T08:30:00-04:00_Employment Cost Index q/q_preview": {
+    "sent_at": "2026-07-31T12:35:39.414902+07:00",
+    "actual": "N/A"
+  },
+  "2026-07-31T10:00:00-04:00_Revised UoM Consumer Sentiment_preview": {
+    "sent_at": "2026-07-31T12:35:39.414902+07:00",
+    "actual": "N/A"
+  },
+  "2026-07-31T10:00:00-04:00_Revised UoM Inflation Expectations_preview": {
+    "sent_at": "2026-07-31T12:35:39.414902+07:00",
+    "actual": "N/A"
   }
 }
