@@ -598,5 +598,17 @@
   "2026-08-25T10:00:00-04:00_CB Consumer Confidence_preview": {
     "sent_at": "2026-08-25T11:30:18.551175+07:00",
     "actual": "N/A"
+  },
+  "2026-08-26T08:30:00-04:00_Core PCE Price Index m/m_preview": {
+    "sent_at": "2026-08-26T10:44:50.509409+07:00",
+    "actual": "N/A"
+  },
+  "2026-08-26T08:30:00-04:00_Prelim GDP q/q_preview": {
+    "sent_at": "2026-08-26T10:44:50.509409+07:00",
+    "actual": "N/A"
+  },
+  "2026-08-26T08:30:00-04:00_Prelim GDP Price Index q/q_preview": {
+    "sent_at": "2026-08-26T10:44:50.509409+07:00",
+    "actual": "N/A"
   }
 }
