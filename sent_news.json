@@ -614,5 +614,21 @@
   "2026-08-27T08:30:00-04:00_Unemployment Claims_preview": {
     "sent_at": "2026-08-27T20:23:08.924367+07:00",
     "actual": "N/A"
+  },
+  "2026-08-28T10:00:00-04:00_Fed Chairman Warsh Speaks_preview": {
+    "sent_at": "2026-08-28T15:07:14.387931+07:00",
+    "actual": "N/A"
+  },
+  "2026-08-28T10:00:00-04:00_Prelim Benchmark Payrolls Revision_preview": {
+    "sent_at": "2026-08-28T15:07:14.387931+07:00",
+    "actual": "N/A"
+  },
+  "2026-08-28T10:00:00-04:00_Revised UoM Consumer Sentiment_preview": {
+    "sent_at": "2026-08-28T15:07:14.387931+07:00",
+    "actual": "N/A"
+  },
+  "2026-08-28T10:00:00-04:00_Revised UoM Inflation Expectations_preview": {
+    "sent_at": "2026-08-28T15:07:14.387931+07:00",
+    "actual": "N/A"
   }
 }
