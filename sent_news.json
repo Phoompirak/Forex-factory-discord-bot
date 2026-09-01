@@ -630,5 +630,17 @@
   "2026-08-28T10:00:00-04:00_Revised UoM Inflation Expectations_preview": {
     "sent_at": "2026-08-28T15:07:14.387931+07:00",
     "actual": "N/A"
+  },
+  "2026-09-01T10:00:00-04:00_ISM Manufacturing PMI_preview": {
+    "sent_at": "2026-09-01T12:54:01.134776+07:00",
+    "actual": "N/A"
+  },
+  "2026-09-01T10:00:00-04:00_ISM Manufacturing Prices_preview": {
+    "sent_at": "2026-09-01T12:54:01.134776+07:00",
+    "actual": "N/A"
+  },
+  "2026-09-01T10:00:00-04:00_JOLTS Job Openings_preview": {
+    "sent_at": "2026-09-01T12:54:01.134776+07:00",
+    "actual": "N/A"
   }
 }
