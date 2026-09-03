@@ -646,5 +646,13 @@
   "2026-09-02T08:15:00-04:00_ADP Non-Farm Employment Change_preview": {
     "sent_at": "2026-09-02T12:16:40.494648+07:00",
     "actual": "N/A"
+  },
+  "2026-09-03T08:30:00-04:00_Unemployment Claims_preview": {
+    "sent_at": "2026-09-03T14:31:31.001112+07:00",
+    "actual": "N/A"
+  },
+  "2026-09-03T10:00:00-04:00_ISM Services PMI_preview": {
+    "sent_at": "2026-09-03T14:31:31.001112+07:00",
+    "actual": "N/A"
   }
 }
