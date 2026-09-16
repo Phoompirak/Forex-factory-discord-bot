@@ -718,5 +718,17 @@
   "2026-09-16T08:30:00-04:00_Retail Sales m/m_preview": {
     "sent_at": "2026-09-16T09:31:24.705416+07:00",
     "actual": "N/A"
+  },
+  "2026-09-16T14:00:00-04:00_Federal Funds Rate_preview": {
+    "sent_at": "2026-09-16T15:06:23.907356+07:00",
+    "actual": "N/A"
+  },
+  "2026-09-16T14:00:00-04:00_FOMC Economic Projections_preview": {
+    "sent_at": "2026-09-16T15:06:23.907356+07:00",
+    "actual": "N/A"
+  },
+  "2026-09-16T14:00:00-04:00_FOMC Statement_preview": {
+    "sent_at": "2026-09-16T15:06:23.907356+07:00",
+    "actual": "N/A"
   }
 }
