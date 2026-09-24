@@ -750,5 +750,9 @@
   "2026-09-24T08:30:00-04:00_Unemployment Claims_preview": {
     "sent_at": "2026-09-24T12:40:26.981455+07:00",
     "actual": "N/A"
+  },
+  "2026-09-24T10:15:00-04:00_President Trump Speaks_preview": {
+    "sent_at": "2026-09-24T22:36:26.703210+07:00",
+    "actual": "N/A"
   }
 }
