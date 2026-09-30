@@ -790,5 +790,13 @@
   "2026-09-30T08:30:00-04:00_Final GDP Price Index q/q_preview": {
     "sent_at": "2026-09-30T14:44:37.148821+07:00",
     "actual": "N/A"
+  },
+  "2026-09-30T15:30:00-04:00_President Trump Speaks_preview": {
+    "sent_at": "2026-09-30T21:26:27.619344+07:00",
+    "actual": "N/A"
+  },
+  "2026-09-30T18:00:00-04:00_FOMC Member Kashkari Speaks_preview": {
+    "sent_at": "2026-09-30T21:26:27.619344+07:00",
+    "actual": "N/A"
   }
 }
