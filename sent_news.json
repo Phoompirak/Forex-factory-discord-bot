@@ -774,5 +774,21 @@
   "2026-09-29T10:00:00-04:00_JOLTS Job Openings_preview": {
     "sent_at": "2026-09-29T13:25:29.003702+07:00",
     "actual": "N/A"
+  },
+  "2026-09-30T08:15:00-04:00_ADP Non-Farm Employment Change_preview": {
+    "sent_at": "2026-09-30T14:44:37.148821+07:00",
+    "actual": "N/A"
+  },
+  "2026-09-30T08:30:00-04:00_Core PCE Price Index m/m_preview": {
+    "sent_at": "2026-09-30T14:44:37.148821+07:00",
+    "actual": "N/A"
+  },
+  "2026-09-30T08:30:00-04:00_Final GDP q/q_preview": {
+    "sent_at": "2026-09-30T14:44:37.148821+07:00",
+    "actual": "N/A"
+  },
+  "2026-09-30T08:30:00-04:00_Final GDP Price Index q/q_preview": {
+    "sent_at": "2026-09-30T14:44:37.148821+07:00",
+    "actual": "N/A"
   }
 }
