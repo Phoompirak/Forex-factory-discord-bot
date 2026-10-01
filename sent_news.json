@@ -798,5 +798,9 @@
   "2026-09-30T18:00:00-04:00_FOMC Member Kashkari Speaks_preview": {
     "sent_at": "2026-09-30T21:26:27.619344+07:00",
     "actual": "N/A"
+  },
+  "2026-10-01T08:30:00-04:00_Unemployment Claims_preview": {
+    "sent_at": "2026-10-01T10:16:02.283435+07:00",
+    "actual": "N/A"
   }
 }
