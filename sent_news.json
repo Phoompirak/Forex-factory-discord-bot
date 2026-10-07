@@ -826,5 +826,13 @@
   "2026-10-05T10:00:00-04:00_ISM Services PMI_preview": {
     "sent_at": "2026-10-05T18:00:26.576405+07:00",
     "actual": "N/A"
+  },
+  "2026-10-07T13:00:00-04:00_President Trump Speaks_preview": {
+    "sent_at": "2026-10-07T21:04:42.960558+07:00",
+    "actual": "N/A"
+  },
+  "2026-10-07T14:00:00-04:00_FOMC Meeting Minutes_preview": {
+    "sent_at": "2026-10-07T21:04:42.960558+07:00",
+    "actual": "N/A"
   }
 }
