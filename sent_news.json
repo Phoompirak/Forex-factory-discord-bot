@@ -898,5 +898,21 @@
   "2026-10-22T08:30:00-04:00_Unemployment Claims_preview": {
     "sent_at": "2026-10-22T13:51:38.661371+07:00",
     "actual": "N/A"
+  },
+  "2026-10-23T09:45:00-04:00_Flash Manufacturing PMI_preview": {
+    "sent_at": "2026-10-23T15:07:04.319009+07:00",
+    "actual": "N/A"
+  },
+  "2026-10-23T09:45:00-04:00_Flash Services PMI_preview": {
+    "sent_at": "2026-10-23T15:07:04.319009+07:00",
+    "actual": "N/A"
+  },
+  "2026-10-23T10:00:00-04:00_Revised UoM Consumer Sentiment_preview": {
+    "sent_at": "2026-10-23T15:07:04.319009+07:00",
+    "actual": "N/A"
+  },
+  "2026-10-23T10:00:00-04:00_Revised UoM Inflation Expectations_preview": {
+    "sent_at": "2026-10-23T15:07:04.319009+07:00",
+    "actual": "N/A"
   }
 }
