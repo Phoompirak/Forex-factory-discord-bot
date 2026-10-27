@@ -914,5 +914,9 @@
   "2026-10-23T10:00:00-04:00_Revised UoM Inflation Expectations_preview": {
     "sent_at": "2026-10-23T15:07:04.319009+07:00",
     "actual": "N/A"
+  },
+  "2026-10-27T10:00:00-04:00_CB Consumer Confidence_preview": {
+    "sent_at": "2026-10-27T14:05:13.369963+07:00",
+    "actual": "N/A"
   }
 }
