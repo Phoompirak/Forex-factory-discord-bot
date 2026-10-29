@@ -930,5 +930,21 @@
   "2026-10-28T14:30:00-04:00_FOMC Press Conference_preview": {
     "sent_at": "2026-10-28T17:10:55.289780+07:00",
     "actual": "N/A"
+  },
+  "2026-10-29T08:30:00-04:00_Advance GDP q/q_preview": {
+    "sent_at": "2026-10-29T14:50:45.189035+07:00",
+    "actual": "N/A"
+  },
+  "2026-10-29T08:30:00-04:00_Core PCE Price Index m/m_preview": {
+    "sent_at": "2026-10-29T14:50:45.189035+07:00",
+    "actual": "N/A"
+  },
+  "2026-10-29T08:30:00-04:00_Advance GDP Price Index q/q_preview": {
+    "sent_at": "2026-10-29T14:50:45.189035+07:00",
+    "actual": "N/A"
+  },
+  "2026-10-29T08:30:00-04:00_Unemployment Claims_preview": {
+    "sent_at": "2026-10-29T14:50:45.189035+07:00",
+    "actual": "N/A"
   }
 }
