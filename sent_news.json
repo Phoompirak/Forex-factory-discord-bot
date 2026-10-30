@@ -946,5 +946,9 @@
   "2026-10-29T08:30:00-04:00_Unemployment Claims_preview": {
     "sent_at": "2026-10-29T14:50:45.189035+07:00",
     "actual": "N/A"
+  },
+  "2026-10-30T08:30:00-04:00_Employment Cost Index q/q_preview": {
+    "sent_at": "2026-10-30T10:40:58.675387+07:00",
+    "actual": "N/A"
   }
 }
