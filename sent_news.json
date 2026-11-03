@@ -954,5 +954,13 @@
   "2026-11-02T10:00:00-05:00_ISM Manufacturing PMI_preview": {
     "sent_at": "2026-11-02T18:52:00.474002+07:00",
     "actual": "N/A"
+  },
+  "2026-11-03T10:00:00-05:00_JOLTS Job Openings_preview": {
+    "sent_at": "2026-11-03T18:29:47.443255+07:00",
+    "actual": "N/A"
+  },
+  "2026-11-03T10:16:00-05:00_Congressional Elections_preview": {
+    "sent_at": "2026-11-03T18:29:47.443255+07:00",
+    "actual": "N/A"
   }
 }
