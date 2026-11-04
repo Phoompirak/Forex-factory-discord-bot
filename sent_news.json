@@ -962,5 +962,9 @@
   "2026-11-03T10:16:00-05:00_Congressional Elections_preview": {
     "sent_at": "2026-11-03T18:29:47.443255+07:00",
     "actual": "N/A"
+  },
+  "2026-11-04T10:00:00-05:00_ISM Services PMI_preview": {
+    "sent_at": "2026-11-04T19:40:56.069553+07:00",
+    "actual": "N/A"
   }
 }
