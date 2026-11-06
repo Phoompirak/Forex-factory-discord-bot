@@ -970,5 +970,25 @@
   "2026-11-05T08:30:00-05:00_Unemployment Claims_preview": {
     "sent_at": "2026-11-05T15:46:06.331622+07:00",
     "actual": "N/A"
+  },
+  "2026-11-06T08:30:00-05:00_Average Hourly Earnings m/m_preview": {
+    "sent_at": "2026-11-06T17:26:38.008610+07:00",
+    "actual": "N/A"
+  },
+  "2026-11-06T08:30:00-05:00_Non-Farm Employment Change_preview": {
+    "sent_at": "2026-11-06T17:26:38.008610+07:00",
+    "actual": "N/A"
+  },
+  "2026-11-06T08:30:00-05:00_Unemployment Rate_preview": {
+    "sent_at": "2026-11-06T17:26:38.008610+07:00",
+    "actual": "N/A"
+  },
+  "2026-11-06T10:00:00-05:00_Prelim UoM Consumer Sentiment_preview": {
+    "sent_at": "2026-11-06T17:26:38.008610+07:00",
+    "actual": "N/A"
+  },
+  "2026-11-06T10:00:00-05:00_Prelim UoM Inflation Expectations_preview": {
+    "sent_at": "2026-11-06T17:26:38.008610+07:00",
+    "actual": "N/A"
   }
 }
