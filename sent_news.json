@@ -1050,5 +1050,13 @@
   "2026-11-20T12:00:00-05:00_President Trump Speaks_preview": {
     "sent_at": "2026-11-21T01:10:02.093935+07:00",
     "actual": "N/A"
+  },
+  "2026-11-23T09:45:00-05:00_Flash Manufacturing PMI_preview": {
+    "sent_at": "2026-11-23T20:53:25.633382+07:00",
+    "actual": "N/A"
+  },
+  "2026-11-23T09:45:00-05:00_Flash Services PMI_preview": {
+    "sent_at": "2026-11-23T20:53:25.633382+07:00",
+    "actual": "N/A"
   }
 }
